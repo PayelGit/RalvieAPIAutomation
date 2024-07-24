@@ -18,19 +18,19 @@ public class payload {
     public static String userAuth()
     {
         return "{\n" +
-                "  \"userName\": \"demo2663@gmail.com\",\n" +
+                "  \"userName\": \"9284inna@fthcapital.com\",\n" +
                 "  \"password\": \"Admin@123\"\n" +
                 "}";
     }
 
 
 
-
-    public static String addTags()
-    {
-        return "{\n" +
-                "  \"name\": \"cello tag\",\n" +
-                "  \"iconUrl\": \"https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f60a.png\"\n" +
-                "}";
-    }
+//
+//    public static String addTags()
+//    {
+//        return "{\n" +
+//                "  \"name\": \"cello tag\",\n" +
+//                "  \"iconUrl\": \"https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f60a.png\"\n" +
+//                "}";
+//    }
 }
